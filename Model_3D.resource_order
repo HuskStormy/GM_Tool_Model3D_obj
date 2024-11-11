@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_camera","order":7,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_control","order":2,"path":"objects/obj_control/obj_control.yy",},
+    {"name":"obj","order":10,"path":"objects/obj/obj.yy",},
+    {"name":"Object3_1","order":9,"path":"objects/Object3_1/Object3_1.yy",},
+    {"name":"Object3","order":8,"path":"objects/Object3/Object3.yy",},
+    {"name":"Room1","order":3,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Script3","order":4,"path":"scripts/Script3/Script3.yy",},
+    {"name":"vertex_format_create_simple","order":1,"path":"scripts/vertex_format_create_simple/vertex_format_create_simple.yy",},
+    {"name":"Sprite1","order":5,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"TileSet1","order":6,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
